@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.339145f1.chunk.css",
+    "main.js": "/static/js/main.dfefe7a1.chunk.js",
+    "main.js.map": "/static/js/main.dfefe7a1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.56f94aef.js",
+    "runtime-main.js.map": "/static/js/runtime-main.56f94aef.js.map",
+    "static/js/2.9df721aa.chunk.js": "/static/js/2.9df721aa.chunk.js",
+    "static/js/2.9df721aa.chunk.js.map": "/static/js/2.9df721aa.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.339145f1.chunk.css.map": "/static/css/main.339145f1.chunk.css.map",
+    "static/js/2.9df721aa.chunk.js.LICENSE.txt": "/static/js/2.9df721aa.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/SegoeUI.d8f5ea7e.eot",
+    "static/media/avatar_w.e6e52425.svg": "/static/media/avatar_w.e6e52425.svg",
+    "static/media/Content.css": "/static/media/calendar.0013c055.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56f94aef.js",
+    "static/js/2.9df721aa.chunk.js",
+    "static/css/main.339145f1.chunk.css",
+    "static/js/main.dfefe7a1.chunk.js"
+  ]
+}
