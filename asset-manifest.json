@@ -1,28 +1,34 @@
 {
   "files": {
-    "main.css": "/democracy/static/css/main.5d5dbc76.chunk.css",
-    "main.js": "/democracy/static/js/main.b4357c92.chunk.js",
-    "main.js.map": "/democracy/static/js/main.b4357c92.chunk.js.map",
+    "main.css": "/democracy/static/css/main.3e655a64.chunk.css",
+    "main.js": "/democracy/static/js/main.f0982811.chunk.js",
+    "main.js.map": "/democracy/static/js/main.f0982811.chunk.js.map",
     "runtime-main.js": "/democracy/static/js/runtime-main.bc7417f9.js",
     "runtime-main.js.map": "/democracy/static/js/runtime-main.bc7417f9.js.map",
-    "static/js/2.6f791374.chunk.js": "/democracy/static/js/2.6f791374.chunk.js",
-    "static/js/2.6f791374.chunk.js.map": "/democracy/static/js/2.6f791374.chunk.js.map",
+    "static/js/2.47256097.chunk.js": "/democracy/static/js/2.47256097.chunk.js",
+    "static/js/2.47256097.chunk.js.map": "/democracy/static/js/2.47256097.chunk.js.map",
     "index.html": "/democracy/index.html",
-    "static/css/main.5d5dbc76.chunk.css.map": "/democracy/static/css/main.5d5dbc76.chunk.css.map",
-    "static/js/2.6f791374.chunk.js.LICENSE.txt": "/democracy/static/js/2.6f791374.chunk.js.LICENSE.txt",
+    "static/css/main.3e655a64.chunk.css.map": "/democracy/static/css/main.3e655a64.chunk.css.map",
+    "static/js/2.47256097.chunk.js.LICENSE.txt": "/democracy/static/js/2.47256097.chunk.js.LICENSE.txt",
     "static/media/App.css": "/democracy/static/media/SegoeUI.d8f5ea7e.eot",
-    "static/media/avatar_w.e6e52425.svg": "/democracy/static/media/avatar_w.e6e52425.svg",
-    "static/media/Content.css": "/democracy/static/media/calendar.0013c055.svg",
+    "static/media/avatar_w.565aa2bd.svg": "/democracy/static/media/avatar_w.565aa2bd.svg",
+    "static/media/Content.css": "/democracy/static/media/calendar.15c4ae9e.svg",
     "static/media/ie.54739bce.png": "/democracy/static/media/ie.54739bce.png",
+    "static/media/microsoft.97892a58.webp": "/democracy/static/media/microsoft.97892a58.webp",
+    "static/media/mslogo.ffca83b9.webp": "/democracy/static/media/mslogo.ffca83b9.webp",
     "static/media/next.b20e4da2.svg": "/democracy/static/media/next.b20e4da2.svg",
+    "static/media/parallax_static_lyr_1.3383d60b.svg": "/democracy/static/media/parallax_static_lyr_1.3383d60b.svg",
+    "static/media/parallax_static_lyr_2.7a947299.svg": "/democracy/static/media/parallax_static_lyr_2.7a947299.svg",
+    "static/media/parallax_static_lyr_3.f561fd90.svg": "/democracy/static/media/parallax_static_lyr_3.f561fd90.svg",
+    "static/media/parallax_static_lyr_4.a94bb71c.svg": "/democracy/static/media/parallax_static_lyr_4.a94bb71c.svg",
     "static/media/prev.4a9ebaf7.svg": "/democracy/static/media/prev.4a9ebaf7.svg",
     "static/media/vote.710c249a.jpg": "/democracy/static/media/vote.710c249a.jpg",
     "static/media/vote.e68180da.mp4": "/democracy/static/media/vote.e68180da.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.bc7417f9.js",
-    "static/js/2.6f791374.chunk.js",
-    "static/css/main.5d5dbc76.chunk.css",
-    "static/js/main.b4357c92.chunk.js"
+    "static/js/2.47256097.chunk.js",
+    "static/css/main.3e655a64.chunk.css",
+    "static/js/main.f0982811.chunk.js"
   ]
 }
