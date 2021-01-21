@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/democracy/static/css/main.3e655a64.chunk.css",
-    "main.js": "/democracy/static/js/main.f0982811.chunk.js",
-    "main.js.map": "/democracy/static/js/main.f0982811.chunk.js.map",
+    "main.js": "/democracy/static/js/main.fe3cc526.chunk.js",
+    "main.js.map": "/democracy/static/js/main.fe3cc526.chunk.js.map",
     "runtime-main.js": "/democracy/static/js/runtime-main.bc7417f9.js",
     "runtime-main.js.map": "/democracy/static/js/runtime-main.bc7417f9.js.map",
     "static/js/2.47256097.chunk.js": "/democracy/static/js/2.47256097.chunk.js",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.bc7417f9.js",
     "static/js/2.47256097.chunk.js",
     "static/css/main.3e655a64.chunk.css",
-    "static/js/main.f0982811.chunk.js"
+    "static/js/main.fe3cc526.chunk.js"
   ]
 }
