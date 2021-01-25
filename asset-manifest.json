@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/democracy/static/css/main.3e655a64.chunk.css",
-    "main.js": "/democracy/static/js/main.fe3cc526.chunk.js",
-    "main.js.map": "/democracy/static/js/main.fe3cc526.chunk.js.map",
+    "main.css": "/democracy/static/css/main.27556636.chunk.css",
+    "main.js": "/democracy/static/js/main.505e6f0e.chunk.js",
+    "main.js.map": "/democracy/static/js/main.505e6f0e.chunk.js.map",
     "runtime-main.js": "/democracy/static/js/runtime-main.bc7417f9.js",
     "runtime-main.js.map": "/democracy/static/js/runtime-main.bc7417f9.js.map",
     "static/js/2.47256097.chunk.js": "/democracy/static/js/2.47256097.chunk.js",
     "static/js/2.47256097.chunk.js.map": "/democracy/static/js/2.47256097.chunk.js.map",
     "index.html": "/democracy/index.html",
-    "static/css/main.3e655a64.chunk.css.map": "/democracy/static/css/main.3e655a64.chunk.css.map",
+    "static/css/main.27556636.chunk.css.map": "/democracy/static/css/main.27556636.chunk.css.map",
     "static/js/2.47256097.chunk.js.LICENSE.txt": "/democracy/static/js/2.47256097.chunk.js.LICENSE.txt",
     "static/media/App.css": "/democracy/static/media/SegoeUI.d8f5ea7e.eot",
     "static/media/avatar_w.565aa2bd.svg": "/democracy/static/media/avatar_w.565aa2bd.svg",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.bc7417f9.js",
     "static/js/2.47256097.chunk.js",
-    "static/css/main.3e655a64.chunk.css",
-    "static/js/main.fe3cc526.chunk.js"
+    "static/css/main.27556636.chunk.css",
+    "static/js/main.505e6f0e.chunk.js"
   ]
 }
